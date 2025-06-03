@@ -1,0 +1,12 @@
+## open 5 conda terminals for 4 agents and one main file
+1. cd C:\Users\hp\Desktop\doctor.ai(in all 5 terminals)
+2. conda activate doctor_ai (in all 5 terminals)
+3. python run patient_agent.py in terminal1
+4. python run diagnostic_agent.py in terminal2
+5. python run medication_agent.py in terminal3
+6. python run referral_diet_agent.py in terminal4
+7. python run main.py in terminal5
+
+that's all open localhost  http://127.0.0.1:8000
+
+see your AI based portal...
