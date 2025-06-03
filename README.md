@@ -82,9 +82,13 @@ Medical History: Family history of migraines
 Allergies: Codeine
 Current Medications: Magnesium supplements
 ```
+
 ![webpage](1..JPG)
+
 ![ patient_agent](2..JPG)
+
 ![diagnostic_agent](3..JPG)
+
 ![medication_agent](4..JPG)
 ![referral_diet_agent](5..JPG)
 ![a2a architecture Diagram](a2a_architecture.JPG)
